@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525970841 source:d:\lfa\proiect 3\gic\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
